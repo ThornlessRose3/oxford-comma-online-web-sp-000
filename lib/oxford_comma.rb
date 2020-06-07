@@ -1,3 +1,5 @@
 def oxford_comma(array)
-  array.
+  counter = array.length
+  counter -= 1
+  counter.times do   
 end
